@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Guess_The_Movie</string>
+    <string name="title_activity_movie">Movie</string>
+</resources>
